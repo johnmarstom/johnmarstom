@@ -1,10 +1,9 @@
-## Hi there 👋
+## 
 
 🦄 Linguagens: **Java, HTML **
 
 💼 Ferramentas: **InteliJ IDEA, Visual studio**
 
-<!--
 import Desenvolvedor from "SeuNick";
 
 class SobreMim extends Desenvolvedor {
@@ -14,4 +13,8 @@ class SobreMim extends Desenvolvedor {
   local = "Local";
 }
 
--->
+class Skills extends Desenvolvedor {
+  linguagens = ["Suas linguagens"];
+  bibliotecas = ["Suas bibliotecas"];
+  frameworks = ["Seus frameworks"];
+}
