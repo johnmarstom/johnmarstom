@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+
+💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+
 <!--
 **johnmarstom/johnmarstom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
