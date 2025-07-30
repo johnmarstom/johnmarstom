@@ -1,20 +1,8 @@
-## 
+## Sobre mim
+ Linguagens: Java, HTML 
+ Ferramentas: InteliJ IDEA, Visual Studio Code
+ Explorando novas tecnologias e desenvolvendo soluções de software.
+ Estudando desenvolvimento de sistemas na escola Senai Anchieta.
 
-🦄 Linguagens: **Java, HTML **
 
-💼 Ferramentas: **InteliJ IDEA, Visual studio**
 
-import Desenvolvedor from "SeuNick";
-
-class SobreMim extends Desenvolvedor {
-  nome = "Seu nome";
-  area = "Sua área";
-  trabalho = "Onde trabalha";
-  local = "Local";
-}
-
-class Skills extends Desenvolvedor {
-  linguagens = ["Suas linguagens"];
-  bibliotecas = ["Suas bibliotecas"];
-  frameworks = ["Seus frameworks"];
-}
