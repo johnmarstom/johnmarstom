@@ -4,6 +4,14 @@
 
 💼 Ferramentas: **InteliJ IDEA, Visual studio**
 
+import Desenvolvedor from "SeuNick";
+
+class SobreMim extends Desenvolvedor {
+  nome = "Seu nome";
+  area = "Sua área";
+  trabalho = "Onde trabalha";
+  local = "Local";
+}
 <!--
 **johnmarstom/johnmarstom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
