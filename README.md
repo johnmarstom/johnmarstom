@@ -1,3 +1,5 @@
+Olá, sou Erika  ☺︎☺
+
 ## Sobre mim
 - Linguagens: Java, HTML 
  
