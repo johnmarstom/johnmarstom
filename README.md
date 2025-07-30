@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+🦄 Linguagens: **Java, HTML **
 
-💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+💼 Ferramentas: **InteliJ IDEA, Visual studio**
 
 <!--
 **johnmarstom/johnmarstom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
