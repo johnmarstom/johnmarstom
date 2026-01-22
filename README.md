@@ -3,7 +3,7 @@
 I like Trains.
 
 <p align="center">
-  <img src="[https://img1.picmix.com/output/stamp/normal/1/4/3/7/2757341_05372.png](https://i.pinimg.com/736x/c2/24/39/c224398aeb2a1918c61cf5c50ed09621.jpg)" width="100">
+  <img src="https://www.reddit.com/r/TheDigitalCircus/comments/1my1lhh/glitch_productions_tadc_plushies_product_images/?tl=pt-br" width="100">
 </p>
 
 **Technologies:**
